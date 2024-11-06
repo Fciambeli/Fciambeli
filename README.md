@@ -1,6 +1,6 @@
 ## Hi, I'm Fábio Ciambeli. Welcome! 👱‍♂️👋
 
-I’m a AWS Technical Mentor, System Analyst and Technology Professional specialized in Cloud Computing, certified on the main bases, such as: Google Cloud Platform, Amazon Web Services and Microsoft Azure. 
+I’m a AWS Technical Trainer, System Analyst and Technology Professional specialized in Cloud Computing, certified on the main bases, such as: Google Cloud Platform, Amazon Web Services and Microsoft Azure. 
 
 I am fascinated by new technologies and I'am constantly learning about them. Here you can find my projects. 🚀
 
